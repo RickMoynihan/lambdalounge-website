@@ -1,0 +1,27 @@
+/* custom link colours */
+a, a:visited, a:hover {color:#B66021; border-bottom: 1px solid#B66021}
+
+/* custom background colour for navigation bar and call to action */
+nav, section.cta{
+background: #4d0023 !important;
+}
+
+/* custom link colour  for navigation */
+nav a:hover{background:transparent; border:0;}
+
+/* custom headline colours */
+h1, h2, h3 {color:#4d0023;}
+
+#jam_174 img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#jam_186 img {
+  float: right;
+}
+
+#jam_187 img {
+  margin: auto;
+}
