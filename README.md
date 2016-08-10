@@ -66,3 +66,5 @@ markup, which meant it was an easy task to port the site here.
 
 At some point if maintaining the HTML gets too painful I'll probably
 migrate this to Jekyll or a static site generator.
+
+For copies of the Lambda Lounge Logo's please see [this repository](https://github.com/RickMoynihan/lambda-lounge-logos)
