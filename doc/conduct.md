@@ -1,0 +1,55 @@
+# Code of Conduct
+
+As a group the Manchester Lambda Lounge not only has a diversity of
+interests but also a diverse membership which may at times be
+comprised of people of different genders, gender identities, races,
+sexualities, religions, abilities and opinions.
+
+Lambda Lounge is not about harrasment, bullying, or spreading,
+misogynistic, sexist or hateful views & rhetoric.  Behaviours such as
+these are beyond the limits of our tolerance.
+
+We hope for everyone to always meet in a spirit of friendship,
+conducive to sharing knowledge and experience.  Tolerance of others
+who may be different to yourself is a very low bar and the minimum we
+should expect of ourselves.  We should always aspire for more.
+
+This code of conduct has gone without saying, and to my knowledge,
+there have been no conduct issues since we began in 2010.  However, it
+has come to my attention that a CoC can encourage participation from
+otherwise under represented groups.
+
+The
+[GeekFeminism Wiki](http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki)
+is an excellent resource to learn about implicit and explicit forms of
+discrimination you might not even be aware of.
+
+If you consider anyone in attendance at a Lambda Lounge meeting to be
+in violation of the spirit of this document then do not hesitate to
+contact either [myself](http://twitter.com/RickMoynihan) or one of the
+organisers.
+
+If you feel we are not adequately addressing your concern you can as a
+last resort contact MadLab.  Madlab have an
+[Equal Opportunities Policy](https://madlab.org.uk/wp-content/uploads/2015/05/EqualOpportunitiesPolicy.pdf)
+whilst in the words of their director Rachael Turner "following
+the universal principle of:
+
+```
+     011001       000110
+   1111011011   1001110100
+ 0010000001100 0100110010100
+10000001100001001000000110010
+00110100101100011011010110010
+00000110010001101111011011100
+ 111010000100000011000100110
+   01010010000001100001001
+     0000001100100011010
+       010110001101101
+         01100100000
+           01100100
+            01101
+             111
+              0
+```
+"
