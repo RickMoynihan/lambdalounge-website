@@ -22,10 +22,10 @@ conducive to sharing knowledge and experience.  Tolerance of others
 who may be different to yourself is a very low bar, and the minimum we
 should expect of ourselves but we should always aspire for more.
 
-This code of conduct has since we began in 2010 gone without saying,
-and to my knowledge there have never been any conduct issues.
-However, it has come to my attention that a CoC can encourage
-participation from otherwise under represented groups.
+We believe Lambda Lounge has been respectful and inclusive of all
+attendees since we began in 2010, and have formalised this here as
+both an ongoing commitment to our members and as a means to promote
+equality and diversity in the technology industry.
 
 The [GeekFeminism Wiki](http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki)
 is an excellent resource to learn about implicit and explicit forms of
