@@ -14,7 +14,7 @@ we're all just people struggling to understand and share profound
 ideas.
 
 However, Lambda Lounge is not about harrasment, bullying, or
-spreading, misogynistic, sexist or hateful views & rhetoric.
+spreading misogynistic, sexist or hateful views & rhetoric.
 Behaviours such as these are beyond the limits of our tolerance.
 
 We hope for everyone to always meet in a spirit of friendship,
