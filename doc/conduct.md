@@ -1,26 +1,33 @@
 # Code of Conduct
 
-As a group the Manchester Lambda Lounge not only has a diversity of
-interests but also a diverse membership which may at times be
-comprised of people of different genders, gender identities, races,
-sexualities, religions, abilities and opinions.
+As a group the
+[Manchester Lambda Lounge](http://www.lambdalounge.org.uk/) not only
+has a diversity of interests but also a diverse membership which at
+times consists of people of different genders, gender identities,
+races, sexualities, religions, abilities and opinions.  So regardless
+of whether you're
+[Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace),
+[Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing),
+[Grace Hopper](https://en.wikipedia.org/wiki/Alan_Turing), or
+[Muhammad al-Khwarizmi](https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi),
+we're all just people struggling to understand and share profound
+ideas.
 
-Lambda Lounge is not about harrasment, bullying, or spreading,
-misogynistic, sexist or hateful views & rhetoric.  Behaviours such as
-these are beyond the limits of our tolerance.
+However, Lambda Lounge is not about harrasment, bullying, or
+spreading, misogynistic, sexist or hateful views & rhetoric.
+Behaviours such as these are beyond the limits of our tolerance.
 
 We hope for everyone to always meet in a spirit of friendship,
 conducive to sharing knowledge and experience.  Tolerance of others
-who may be different to yourself is a very low bar and the minimum we
-should expect of ourselves.  We should always aspire for more.
+who may be different to yourself is a very low bar, and the minimum we
+should expect of ourselves but we should always aspire for more.
 
-This code of conduct has gone without saying, and to my knowledge,
-there have been no conduct issues since we began in 2010.  However, it
-has come to my attention that a CoC can encourage participation from
-otherwise under represented groups.
+This code of conduct has since we began in 2010 gone without saying,
+and to my knowledge there have never been any conduct issues.
+However, it has come to my attention that a CoC can encourage
+participation from otherwise under represented groups.
 
-The
-[GeekFeminism Wiki](http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki)
+The [GeekFeminism Wiki](http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki)
 is an excellent resource to learn about implicit and explicit forms of
 discrimination you might not even be aware of.
 
@@ -32,8 +39,8 @@ organisers.
 If you feel we are not adequately addressing your concern you can as a
 last resort contact MadLab.  Madlab have an
 [Equal Opportunities Policy](https://madlab.org.uk/wp-content/uploads/2015/05/EqualOpportunitiesPolicy.pdf)
-whilst in the words of their director Rachael Turner "following
-the universal principle of:
+and like us, follow madlab director, Rachael Turner's "universal
+principle of:
 
 ```
      011001       000110
