@@ -39,7 +39,7 @@ organisers.
 If you feel we are not adequately addressing your concern you can as a
 last resort contact MadLab.  Madlab have an
 [Equal Opportunities Policy](https://madlab.org.uk/wp-content/uploads/2015/05/EqualOpportunitiesPolicy.pdf)
-and like us, follow madlab director, Rachael Turner's "universal
+and like us, follow madlab director, Rachael Turner's universal
 principle of:
 
 ```
@@ -59,4 +59,3 @@ principle of:
              111
               0
 ```
-"
