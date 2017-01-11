@@ -59,3 +59,10 @@ principle of:
              111
               0
 ```
+
+In addition participants should remember that speakers at Lambda
+Lounge are not always experts on their subject matter.  Often speakers
+are talking about a topic they have only just started learning, so be
+mindful when correcting them on technical matters of the effort they
+have put in to try and help educate others.  Feel free to politely
+correct them, but please respect their commitment over their accuracy.
