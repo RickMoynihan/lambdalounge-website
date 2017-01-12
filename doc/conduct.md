@@ -19,8 +19,8 @@ Behaviours such as these are beyond the limits of our tolerance.
 
 We hope for everyone to always meet in a spirit of friendship,
 conducive to sharing knowledge and experience.  Tolerance of others
-who may be different to yourself is a very low bar, and the minimum we
-should expect of ourselves but we should always aspire for more.
+who may be different to yourself is a very low bar, and is the minimum
+we should expect of ourselves, but we should always aspire for more.
 
 We believe Lambda Lounge has been respectful and inclusive of all
 attendees since we began in 2010, and have formalised this here as
@@ -38,7 +38,7 @@ organisers.
 
 If you feel we are not adequately addressing your concern you can as a
 last resort contact MadLab.  Madlab have an
-[Equal Opportunities Policy](https://madlab.org.uk/wp-content/uploads/2015/05/EqualOpportunitiesPolicy.pdf)
+[Equal Opportunities Policy](https://madlab.org.uk/wp-content/uploads/2015/05/EqualOpportunitiesPolicy.pdf),
 and like us, follow madlab director, Rachael Turner's universal
 principle of:
 
