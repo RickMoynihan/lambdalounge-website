@@ -23,7 +23,7 @@ who may be different to yourself is a very low bar, and is the minimum
 we should expect of ourselves, but we should always aspire for more.
 
 We believe Lambda Lounge has been respectful and inclusive of all
-attendees since we began in 2010, and have formalised this here as
+attendees since we began in 2010, and have formalised this document as
 both an ongoing commitment to our members and as a means to promote
 equality and diversity in the technology industry.
 
