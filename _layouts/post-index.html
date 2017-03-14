@@ -1,0 +1,30 @@
+---
+layout: default
+---
+    <section id="jam_207" class="">
+      <div class="container" id="meetings">
+        <div class="chunk title content fullwidth column" id=
+        "jam_208" data-tabname="Title">
+          <h2>Meetings</h2>
+        </div>
+      </div>
+    </section>
+    <section data-behaviour="tabbed" id="jam_209" class="">
+      <div class="container c2" id="meetings">
+
+        {% for post in site.posts %}
+        <div class="chunk event active content fullwidth column c1"
+             id="{{ post.id }}"
+             data-tabname="{{ post.date_tab }}">
+          <a href="{{ post.url }}#meetings">
+          <div class="date">
+             <div class="month">{{ post.month }} </div>
+             <div class="day"> {{ post.day }} </div>
+          </div>
+          </a>
+          <div>
+             {{ post.content }}
+          </div>
+        </div>
+        {% endfor %}
+    </section>

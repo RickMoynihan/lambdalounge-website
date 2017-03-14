@@ -1,0 +1,26 @@
+---
+layout: default
+---
+    <section id="jam_207" class="">
+      <div class="container" id="meetings">
+        <div class="chunk title content fullwidth column" id=
+        "jam_208" data-tabname="Title">
+          <h2>Meetings</h2>
+        </div>
+      </div>
+    </section>
+    <section data-behaviour="tabbed" id="jam_209" class="">
+      <div class="container c2" id="meetings">
+
+        <div class="chunk event active content fullwidth column c1"
+             id="{{ page.id }}"
+             data-tabname="{{ page.date_tab }}">
+          <div class="date">
+             <div class="month">{{ page.month }} </div>
+             <div class="day"> {{ page.day }} </div>
+          </div>
+          <div>
+             {{ content }}
+          </div>
+        </div>
+    </section>
