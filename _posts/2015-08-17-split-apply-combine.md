@@ -1,10 +1,5 @@
 ---
 layout: post
-id: jam_217
-published: true
-date_tab: 17 Aug 2015
-month: Aug
-day: 17
 ---
 <div>This Monday at <b>7pm</b>, we'll be looking at
 <a href="http://www.jstatsoft.org/v40/i01/paper" target=

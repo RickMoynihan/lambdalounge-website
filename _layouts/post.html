@@ -14,11 +14,13 @@ layout: default
 
         <div class="chunk event active content fullwidth column c1"
              id="{{ page.id }}"
-             data-tabname="{{ page.date_tab }}">
+             data-tabname="{{ page.date | date: "%b %d %Y" }}">
+          <a href="{{ page.url }}#meetings">
           <div class="date">
-             <div class="month">{{ page.month }} </div>
-             <div class="day"> {{ page.day }} </div>
+             <div class="month">{{ page.date | date: "%b" }} </div>
+             <div class="day"> {{ page.date | date: "%d" }} </div>
           </div>
+          </a>
           <div>
              {{ content }}
           </div>

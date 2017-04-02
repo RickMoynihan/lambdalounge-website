@@ -1,10 +1,5 @@
 ---
 layout: post
-id: jam_217
-published: true
-date_tab: 20 Jul 2015
-month: Jul
-day: 20
 ---
 <h3>Application development with Purescript</h3>
 <div>

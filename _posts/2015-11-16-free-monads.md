@@ -1,10 +1,5 @@
 ---
 layout: post
-id: jam_220
-published: true
-date_tab: 16 Nov 2015
-month: Nov
-day: 16
 ---
 <div>This month saw Scala developer, Jaakko Pallari,
 talk about how Free monads are a general way of deriving

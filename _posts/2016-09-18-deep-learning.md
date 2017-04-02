@@ -1,10 +1,5 @@
 ---
 layout: post
-id: jam_227
-published: true
-date_tab: 18 Sep 2016
-month: Sep
-day: 18
 ---
 <div><span>This Monday at 7pm Alex Weaver is giving a
 talk on <strong>deep learning for functional

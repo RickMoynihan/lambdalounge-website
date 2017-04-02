@@ -1,10 +1,5 @@
 ---
 layout: post
-id: text-editor-data-structures2
-published: true
-date_tab: 16 Jan 2017
-month: Jan
-day: 16
 ---
 
 <div>

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<section id="{{ page.id }}" class="">
+<section id="{{ page.id | slugify }}" class="">
     <div class="container" id="header">
        {{ content }}
     </div>

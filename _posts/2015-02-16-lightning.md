@@ -1,10 +1,5 @@
 ---
 layout: post
-id: jam_211
-published: true
-date_tab: 16 Feb 2015
-month: Feb
-day: 16
 ---
 <div>On <b>Monday</b> <b>February 16th</b> at <b>7pm</b>
 we're hosting a series of lightning talks <a href=

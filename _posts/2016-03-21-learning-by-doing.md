@@ -1,10 +1,5 @@
 ---
 layout: post
-id: jam_221
-published: true
-date_tab: 21 Mar 2016
-month: Mar
-day: 21
 ---
 <div>
    This month after a brief hiatus we return at the usual

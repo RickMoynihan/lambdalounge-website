@@ -1,10 +1,5 @@
 ---
 layout: post
-id: haskell-perl
-published: true
-date_tab: 18 Apr 2016
-month: Apr
-day: 18
 ---
 <div>
   This month <span><a href="https://twitter.com/osfameron">Hakim Cassimally</a>

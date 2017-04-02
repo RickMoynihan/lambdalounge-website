@@ -74,7 +74,7 @@ layout: default
        we're a diverse group so if you want to talk the chances
        are we'll want to listen!</p>
        <p>You can submit ideas for talks, by emailing the
-       <b>Google Group</b>.</p>
+       <b>Google Group.  See our <a href="/cfs">call for speakers</a> for more details</b>.</p>
      </div>
    </div>
  </section>

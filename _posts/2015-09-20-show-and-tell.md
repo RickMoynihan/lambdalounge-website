@@ -1,10 +1,5 @@
 ---
 layout: post
-id: show-and-tell
-published: true
-date_tab: 20 Sep 2015
-month: Sep
-day: 20
 ---
 <h3>Show and Tell<br></h3>
 <p>The lambda lounge this Monday are doing a show and
@@ -29,4 +24,3 @@ just try and keep them relevant to <b>computer
 science</b> and/or <b>PLT</b>.&nbsp;</p>
 <p><b>Don't worry if you don't have anything to bring</b>
 - just come and join the conversations.<br></p>
-</div>

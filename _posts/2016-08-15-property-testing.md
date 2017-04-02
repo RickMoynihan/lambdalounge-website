@@ -1,10 +1,5 @@
 ---
 layout: post
-id: jam_226
-published: true
-date_tab: 15 Aug 2016
-month: Aug
-day: 15
 ---
 <div><span>This Monday at <b>7pm</b> we're pleased to
 announce we have another talk by Lee Kitching, this time

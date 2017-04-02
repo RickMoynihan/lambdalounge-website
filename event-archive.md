@@ -889,11 +889,11 @@ layout: default
        Haskell is best known for it's ability to lock up side
        effects where they belong, in an IO::Monad; preventing
        them from polluting your program with pain and
-       non-determinism.<a href="/downloads/Haskell.pdf">The
+       non-determinism.<a href="{{ site.baseurl }}/downloads/Haskell.pdf">The
        slide</a><a href="downloads//Haskell.pdf">s</a> for this
        talk can be downloaded below.<br>
        <br>
-       <p><a href="/downloads/Haskell.pdf" class=
+       <p><a href="{{ site.baseurl }}/downloads/Haskell.pdf" class=
        "buttonise">Download</a></p>
      </div>
      <div class="chunk event content fullwidth column c1" id=

@@ -16,8 +16,8 @@ lang="en">
   <title>The Manchester Lambda Lounge</title>
   <link rel="stylesheet" href=
   "/assets/css/visitor-8757bb2141ec97edc13d7233f887bb56.min.css">
-  <link rel="stylesheet" href="/assets/css/flavour.css">
-  <link rel="icon" href="/assets/img/lambdalounge.png">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/flavour.css">
+  <link rel="icon" href="{{ site.baseurl }}/assets/img/lambdalounge.png">
   <link rel="stylesheet" href=
   "/assets/css/custom-ec9f787c-9c88-4370-a818-9ea934bd4298.css">
   <style>
@@ -25,8 +25,8 @@ lang="en">
   </style>
   <script type="text/javascript" async src=
   "http://www.google-analytics.com/ga.js"></script>
-  <script src="/assets/js/modernizr.min.js"></script>
-  <script src="/assets/js/respond.min.js"></script>
+  <script src="{{ site.baseurl }}/assets/js/modernizr.min.js"></script>
+  <script src="{{ site.baseurl }}/assets/js/respond.min.js"></script>
   <style type="text/css">
   div.c8 {min-height: 1050.5px;}
   span.c7 {font-style: italic;}
@@ -44,22 +44,22 @@ lang="en">
       <div class="container">
         <ol class="content fullwidth column">
           <li>
-            <a href="/contact-us">Contact us</a>
+            <a href="{{ site.baseurl }}/contact-us">Contact us</a>
           </li>
           <li>
-            <a href="/">Meetings</a>
+            <a href="{{ site.baseurl }}/">Meetings</a>
           </li>
           <li>
-            <a href="/about-us">About us</a>
+            <a href="{{ site.baseurl }}/about-us">About us</a>
           </li>
           <li>
-            <a href="/fp">What is FP?</a>
+            <a href="{{ site.baseurl }}/fp">What is FP?</a>
           </li>
           <li>
-            <a href="/event-archive">Event archive</a>
+            <a href="{{ site.baseurl }}/event-archive">Event archive</a>
           </li>
           <li>
-            <a href="/doc/conduct">Code of Conduct</a>
+            <a href="{{ site.baseurl }}/doc/conduct">Code of Conduct</a>
           </li>
         </ol>
       </div>
@@ -71,35 +71,34 @@ lang="en">
           "Logo">
             <div class="content fullwidth column">
               <figure>
-                <img width="33%" src="/assets/ll.resized.png" alt=
-                "The Lambda Lounge">
+                 <a href="https://twitter.com/lambdamcr">
+                    <img width="75%" src="{{ site.baseurl }}/assets/ll.resized.png" alt="The Lambda Lounge">
+                 </a>
               </figure>
             </div>
             <div class="content fullwidth column"></div>
           </div>
         </div>
       </section>
-    </div>
 
-    <div>
        {{ content }}
     </div>
 
   <footer>
     <div class="container content fullwidth column">
-      <small>Copyright © 2016 The Lambda Lounge. All rights
+      <small>Copyright © 2017 The Lambda Lounge. All rights
       reserved except as indicated.<br>
       Made by The Lambda Lounge with help from <a href=
       "http://stardotstar.com/">Stardotstar</a></small>
     </div>
   </footer>
-  <script src="/assets/js/jquery.min.js"></script> 
-  <script src="/assets/js/jquery-ui.min.js"></script> 
+  <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script> 
+  <script src="{{ site.baseurl }}/assets/js/jquery-ui.min.js"></script> 
   <script>
-  window.jQuery || document.write('<script src="/assets/js/jquery.min.js"><\/script>')    
+window.jQuery || document.write('<script src="{{ site.baseurl }}/assets/js/jquery.min.js"><\/script>')    
   </script> 
   <script>
-  window.JSON || document.write('<script src="/assets/js/json2.min.js"><\/script>')    
+window.JSON || document.write('<script src="{{ site.baseurl }}/assets/js/json2.min.js"><\/script>')    
   </script> 
   <script src=
   "/assets/js/visitor-74a202b717185ed2478326ed8e7e5d61.js"></script>

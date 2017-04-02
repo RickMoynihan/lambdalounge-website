@@ -1,10 +1,5 @@
 ---
 layout: post
-id: learn-elixir
-published: true
-date_tab: 20 Feb 2017
-month: Feb
-day: 20
 ---
 <div>
    We're meeting on Monday <b>20</b>th Feb at 7pm at

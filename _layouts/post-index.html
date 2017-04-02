@@ -1,30 +1,31 @@
 ---
 layout: default
 ---
-    <section id="jam_207" class="">
-      <div class="container" id="meetings">
-        <div class="chunk title content fullwidth column" id=
-        "jam_208" data-tabname="Title">
-          <h2>Meetings</h2>
-        </div>
-      </div>
-    </section>
-    <section data-behaviour="tabbed" id="jam_209" class="">
-      <div class="container c2" id="meetings">
+ <section id="jam_207" class="">
+   <div class="container" id="meetings">
+     <div class="chunk title" id="jam_208" data-tabname="Title">
+       <h2>Meetings</h2>
+     </div>
+   </div>
+ </section>
 
-        {% for post in site.posts %}
-        <div class="chunk event active content fullwidth column c1"
-             id="{{ post.id }}"
-             data-tabname="{{ post.date_tab }}">
+ <section data-behaviour="tabbed" id="jam_209" class="">
+   <div class="container" id="meetings">
+
+     {% for post in site.posts %}
+     <div class="chunk event {% if forloop.first %}active{% endif %}"
+          id="{{ post.id | slugify }}"
+          data-tabname="{{ post.date | date: "%d %b %Y" }}">
+        <div class="content fullwidth column">
           <a href="{{ post.url }}#meetings">
-          <div class="date">
-             <div class="month">{{ post.month }} </div>
-             <div class="day"> {{ post.day }} </div>
-          </div>
+             <div class="date">
+                <div class="month">{{ post.date | date: "%b" }} </div>
+                <div class="day"> {{ post.date | date: "%d" }} </div>
+             </div>
           </a>
-          <div>
-             {{ post.content }}
-          </div>
-        </div>
-        {% endfor %}
-    </section>
+          {{ post.content }}
+       </div>
+     </div>
+     {% endfor %}
+   </div>
+ </section>
