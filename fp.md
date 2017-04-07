@@ -96,35 +96,37 @@ layout: default
       Expression orientation, Lexical Scope, and Software
       Transactional Memories all made it into functional
       languages years before they were mainstream. &nbsp;What
-      are you still missing?<br>
+      are you still missing?
+      <br>
+      <br>
     </div>
-  </div>
-  <div class="chunk information content fullwidth column" id=
-  "jam_134" data-tabname="Tailer...">
-    Functional programming is not only on the cutting edge of
-    computer science research, but it's being adopted by a
-    leaner generation of startups who are innovating faster
-    than their competitors.<br>
-    <br>
-    A new generation of functional languages
-    like&nbsp;<a href=
-    "http://research.microsoft.com/en-us/um/cambridge/projects/fsharp/"
-    target="_self">F#</a>,&nbsp;<a href=
-    "http://www.scala-lang.org/" target=
-    "_self">Scala</a>&nbsp;and&nbsp;<a href=
-    "http://clojure.org/" target=
-    "_self">Clojure</a>,&nbsp;are giving developers the
-    ability to run functional languages on the runtime
-    environment of their choice (<b>.Net</b>, <b>JVM</b> or
-    <b>Javascript</b>),&nbsp;whilst traditional functional
-    languages like <a href=
-    "http://www.haskell.org/haskellwiki/Haskell" target=
-    "_self">Haskell</a>, <a href="http://racket-lang.org/"
-    target="_self">Scheme</a>, <a href=
-    "http://www.erlang.org/" target="_self">Erlang</a> and
-    <a href="http://caml.inria.fr/" target="_self">O-Caml</a>
-    continue to develop the state of the art in type systems,
-    language features, compilers, and fault tolerant
-    systems.<br>
+    <div class="chunk information content fullwidth column" id=
+     "jam_134" data-tabname="Tailer...">
+       Functional programming is not only on the cutting edge of
+       computer science research, but it's being adopted by a
+       leaner generation of startups who are innovating faster
+       than their competitors.<br>
+       <br>
+       A new generation of functional languages
+       like&nbsp;<a href=
+       "http://research.microsoft.com/en-us/um/cambridge/projects/fsharp/"
+       target="_self">F#</a>,&nbsp;<a href=
+       "http://www.scala-lang.org/" target=
+       "_self">Scala</a>&nbsp;and&nbsp;<a href=
+       "http://clojure.org/" target=
+       "_self">Clojure</a>,&nbsp;are giving developers the
+       ability to run functional languages on the runtime
+       environment of their choice (<b>.Net</b>, <b>JVM</b> or
+       <b>Javascript</b>),&nbsp;whilst traditional functional
+       languages like <a href=
+       "http://www.haskell.org/haskellwiki/Haskell" target=
+       "_self">Haskell</a>, <a href="http://racket-lang.org/"
+       target="_self">Scheme</a>, <a href=
+       "http://www.erlang.org/" target="_self">Erlang</a> and
+       <a href="http://caml.inria.fr/" target="_self">O-Caml</a>
+       continue to develop the state of the art in type systems,
+       language features, compilers, and fault tolerant
+       systems.<br>
+     </div>
   </div>
 </section>

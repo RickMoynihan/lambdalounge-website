@@ -2,7 +2,7 @@
 layout: default-wrapped
 ---
 
-# Code of Conduct
+## Code of Conduct
 
 As a group the
 [Manchester Lambda Lounge](http://www.lambdalounge.org.uk/) not only

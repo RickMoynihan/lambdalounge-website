@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
- <section id="jam_147" class="">
+<section id="jam_147" class="">
    <div class="container" id="about-us">
      <div class="chunk title content fullwidth column" id=
      "jam_150" data-tabname="Title">
@@ -49,4 +49,4 @@ layout: default
        </div>
      </div>
    </div>
- </section>
+</section>

@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
- <section id="jam_205" class="">
+<section id="jam_205" class="">
    <div class="container" id="event-archive">
      <div class="chunk title content fullwidth column" id=
      "jam_206" data-tabname="Title">
@@ -944,4 +944,4 @@ layout: default
        expressiveness</span>.
      </div>
    </div>
- </section>
+</section>

@@ -2,7 +2,7 @@
 layout: default-wrapped
 ---
 
-# Call for Speakers
+## Call for Speakers
 
 (See [our recent announcement](https://groups.google.com/forum/#!topic/lambda-lounge-manchester/exbzHl6A470) for full details!)
 

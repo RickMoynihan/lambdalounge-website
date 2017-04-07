@@ -47,6 +47,10 @@ layout: default
        it is best to check here and keep an eye on our Google
        Group for announcements.<br>
      </div>
+  </div>
+</section>
+<section id="keep-in-touch-section" class="">
+  <div class="container" id="keep-in-touch">
      <div class="chunk title content fullwidth column" id=
      "jam_156" data-tabname="Join us...">
        <h2>Keep in touch...</h2>
@@ -63,7 +67,10 @@ layout: default
        Follow us on twitter:
        <a href="https://twitter.com/lambdamcr">@LambdaMCR</a>
      </div>
-     </div>
+  </div>
+</section>
+<section id="want-to-talk-section" class="">
+  <div class="container" id="want-to-talk">
      <div class="chunk call_to_action content fullwith column"
      id="jam_40" data-tabname="">
        <h2>Want to talk?</h2>
