@@ -1,4 +1,8 @@
-# Code of Conduct
+---
+layout: default-wrapped
+---
+
+## Code of Conduct
 
 As a group the
 [Manchester Lambda Lounge](http://www.lambdalounge.org.uk/) not only
@@ -42,7 +46,7 @@ last resort contact MadLab.  Madlab have an
 and like us, follow madlab director, Rachael Turner's universal
 principle of:
 
-```
+<pre><tt><font face="monospace">
      011001       000110
    1111011011   1001110100
  0010000001100 0100110010100
@@ -58,7 +62,7 @@ principle of:
             01101
              111
               0
-```
+</font></tt></pre>
 
 In addition participants should remember that speakers at Lambda
 Lounge are not always experts on their subject matter.  Often speakers
