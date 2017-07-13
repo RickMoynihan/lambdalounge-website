@@ -14,8 +14,11 @@ After our [May talks on IoT][last-time] we'll meet to work together
 on various Internet of Things projects.  This will be a **Hands On**
 session, so please do bring:
 
- - * a laptop
- - * any electronics kit you have that you'd like to play with
+
+```
+ * laptop
+ * any electronics kit you have that you'd like to play with
+```
 
 But don't worry: we will bring various microcontrollers: ESP8266, Arduino, some
 BBC micro:bits etc.
