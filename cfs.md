@@ -7,16 +7,14 @@ layout: default-wrapped
 (See [our recent announcement](https://groups.google.com/forum/#!topic/lambda-lounge-manchester/exbzHl6A470) for full details!)
 
 If you've been to any of our meetings, you'll know that we can guarantee an enthusiastic and welcoming crowd.
-We abide by a simple but effective Code of Conduct at http://www.lambdalounge.org.uk/doc/conduct
+We abide by a simple but effective [Code of Conduct](http://www.lambdalounge.org.uk/doc/conduct)
 
 And never fear, it doesn't matter whether you are an enthusiastic beginner to FP, or have multiple computer science Ph.Ds:  Just in the last 6 months we've had talks about:
 
-<ul style="list-style-type: disc; margin-left: 2em;">
-   <li>basics of recursion and pattern matching
-   <li>programming in the threaded function style
-   <li>an introduction to Elixir
-   <li>data structures of text editors
-</ul>
+ * `*` basics of recursion and pattern matching
+ * `*` programming in the threaded function style
+ * `*` an introduction to Elixir
+ * `*` data structures of text editors
 
 We welcome all, and are very keen to show a good example by encouraging a diverse range of speakers!
 
