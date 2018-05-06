@@ -9,7 +9,8 @@ April at MadLab's new venue at [PLANT NOMA][PlantNoma]
 (See MadLab's [announcement][PlantNomaAnnouncement] for more details.)
 
 We'll be learning about Audio Synthesis in F# with [John Stovin][johnstovin].
-This is a re-run of his very popular workshop at F# Exchange this year, and should be lots of fun!
+This is a re-run of his very popular workshop at F# Exchange this year, and should be lots of fun!  This meeting is brought to you in collaboration with the
+[Manchester F# User Group][fsharp].
 
 Planning for the usual 7pm (doors open a little earlier, we aim to start by 7:05pm), but do keep an eye out
 for any changes, as it's a slightly new setup.
@@ -52,6 +53,7 @@ We're a very supportive crowd, do let us know if you have any questions!)
 [ML]: https://madlab.org.uk/find-us/
 [lambdamcr]: https://twitter.com/lambdamcr
 [johnstovin]: https://twitter.com/johnstovin
+[fsharp]: https://www.meetup.com/Manchester-F-User-Group/
 [eventbrite]: https://www.eventbrite.com/e/audio-synthesis-in-f-with-john-stovin-tickets-45830969664
 [PlantNomaAnnouncement]: https://madlab.org.uk/2018/04/madlab-and-plant-noma-announce-new-collaboration/
 [PlantNoma]: https://www.google.co.uk/maps/dir/Edge+St,+Manchester+M4+1HN/53.4866767,-2.2389383/@53.4852115,-2.2400216,17z/data=!4m9!4m8!1m5!1m1!1s0x487bb1b8c4c72785:0x14932c7f3f87fa2!2m2!1d-2.2363568!2d53.4841714!1m0!3e2
