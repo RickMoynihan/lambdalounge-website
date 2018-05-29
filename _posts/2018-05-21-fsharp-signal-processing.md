@@ -3,7 +3,7 @@ layout: post
 ---
 
 So this is very exciting for several reasons: our next meeting is on Monday 21st
-April at MadLab's new venue at [PLANT NOMA][PlantNoma]
+May at MadLab's new venue at [PLANT NOMA][PlantNoma]
 (Redfern, Dantzic Street, NOMA, M60 0AE).
 
 (See MadLab's [announcement][PlantNomaAnnouncement] for more details.)
