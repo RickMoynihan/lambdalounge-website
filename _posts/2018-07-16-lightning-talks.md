@@ -13,13 +13,11 @@ Please [register][eventbrite] to let us know you'll be attending.
 
 ---
 
-This month we have lightning talks from Hakim Cassimally, Chris Bacon, Sean Handley, Sam Marshall and Alex Lynham.
+This month we have lightning talks from Hakim Cassimally, Chris Bacon, Sam Marshall and Alex Lynham.
 
 > Hakim Cassimally ([BBC]): Inform7, a declarative, 'plain English' language
 
 > Chris Bacon ([BBC]): Using monoids to build UI
-
-> Sean Handley ([Stuart]): GraphQL in Elixir
 
 > Sam Marshall ([Digital Bridge]): A Functional Programmer's adventures in OOP
 
@@ -38,7 +36,6 @@ We're a very supportive crowd, do let us know if you have any questions!)
 ---
 
 [BBC]: https://www.bbc.co.uk
-[Stuart]: https://stuart.com
 [Digital Bridge]: https://www.digitalbridge.com
 [Co-op Digital]: https://digitalblog.coop.co.uk
 [MadLab]: https://madlab.org.uk/find-us
