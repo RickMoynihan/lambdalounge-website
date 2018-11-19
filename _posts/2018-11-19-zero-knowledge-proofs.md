@@ -3,8 +3,9 @@ layout: post
 ---
 
 Our next meeting is on Monday 19th November.
-at MadLab in [PLANT NOMA][PlantNoma]
-(Redfern, Dantzic Street, NOMA, M60 0AE).
+
+*IMPORTANT*: the venue has been changed to [Federation House][Federation]
+We'll be in the "Solidarity" room!
 
 The meeting starts at 7pm (doors open a little earlier, we aim to start by 7:05pm).
 
@@ -42,6 +43,7 @@ We're a very supportive crowd, do let us know if you have any questions!)
 [PlantNoma]: https://www.google.co.uk/maps/dir/Edge+St,+Manchester+M4+1HN/53.4866767,-2.2389383/@53.4852115,-2.2400216,17z/data=!4m9!4m8!1m5!1m1!1s0x487bb1b8c4c72785:0x14932c7f3f87fa2!2m2!1d-2.2363568!2d53.4841714!1m0!3e2
 [Equal Experts]: https://www.dunnhumby.com
 [Dunnhumby]: https://www.dunnhumby.com
+[Federation]: http://www.thefederation.coop/find-us.htm
 
 [Daira]: https://twitter.com/feministplt
 
