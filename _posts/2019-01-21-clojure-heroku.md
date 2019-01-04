@@ -6,6 +6,8 @@ Our next meeting is on Monday 21st January
 at [Co-op Digital][CoopDigital]'s offices at [Federation House][FederationHouse]
 (2 Federation Street, Manchester, M4 4BF).
 
+*PLEASE NOTE THE EARLIER THAN USUAL START TIME*
+
 The workshop starts at *6:30pm* (doors open a little earlier, we aim to start by
 6:35pm).
 
@@ -47,7 +49,7 @@ We're a very supportive crowd, do let us know if you have any questions!)
 [FederationHouse]: https://www.google.com/maps/place/Federation+House,+Federation+St,+Manchester+M4+4BF
 [ML]: https://groups.google.com/forum/#!forum/lambda-lounge-manchester
 [lambdamcr]: https://twitter.com/lambdamcr
-[eventbrite]: https://www.eventbrite.com/e/lambdalounge-todo
+[eventbrite]: https://www.eventbrite.com/e/lambdalounge-january-clojure-web-apps-with-heroku-workshop-tickets-54408435094
 [Dunnhumby]: https://www.dunnhumby.com
 [lein]: https://leiningen.org/
 [heroku]: https://devcenter.heroku.com/articles/getting-started-with-clojure#set-up
