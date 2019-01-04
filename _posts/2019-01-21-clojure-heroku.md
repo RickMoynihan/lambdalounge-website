@@ -29,6 +29,8 @@ As the session is a workshop format, attendees will need to bring their own lapt
 
 > Installed the [Heroku toolbelt][heroku]
 
+> Cloned [this repo][clojurerepo] to your laptop 
+
 ---
 
 This event is generously sponsored by [Dunnhumby], a world leader in consumer data science and a heavy adopter of Scala.
@@ -49,3 +51,4 @@ We're a very supportive crowd, do let us know if you have any questions!)
 [Dunnhumby]: https://www.dunnhumby.com
 [lein]: https://leiningen.org/
 [heroku]: https://devcenter.heroku.com/articles/getting-started-with-clojure#set-up
+[clojurerepo]: https://github.com/the-frey/clojure-getting-started
