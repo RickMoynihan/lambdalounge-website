@@ -26,7 +26,7 @@ layout: default
        more demand for a broader group focusing on functional
        programming in general. &nbsp;We asked politely and took
        the name from the American revolutionaries, of the
-       orignal&nbsp;<a href="http://lambdalounge.org/" target=
+       original&nbsp;<a href="http://lambdalounge.org/" target=
        "_self">Lambda Lounge</a>&nbsp;in St Louis. &nbsp;Our
        logo was designed by the incredibly
        talented&nbsp;<a href="https://twitter.com/#!/hltn"
