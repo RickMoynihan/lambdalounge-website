@@ -26,11 +26,11 @@ This meeting is kindly supported by [Dunnhumby][dunnhumby] and [Barclays Eagle L
 
 ---
 
-[gryff]: [https://twitter.com/Gryffskin]
-[gryff-blog]: [https://medium.com/@Gryff]
+[gryff]: https://twitter.com/Gryffskin
+[gryff-blog]: https://medium.com/@Gryff
 [EagleLabs]: https://labs.uk.barclays/
 [ML]: https://groups.google.com/forum/#!forum/lambda-lounge-manchester
 [lambdamcr]: https://twitter.com/lambdamcr
-[eventbrite]: https://www.eventbrite.com/e/lambda-lounge-march-2019-faunadb-functional-nosql-f-and-fabulous-tickets-58539889385
-[dunnhumby]: (https://www.dunnhumby.com/)
+[eventbrite]: https://www.eventbrite.com/......TODO......
+[dunnhumby]: https://www.dunnhumby.com/
 [bank kata]: http://kata-log.rocks/banking-kata

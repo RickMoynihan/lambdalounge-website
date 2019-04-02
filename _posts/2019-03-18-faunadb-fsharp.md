@@ -2,8 +2,6 @@
 layout: post
 ---
 
----
-
 Our next meeting is on Monday 18th March at Barclays Eagle Labs in Albert Square (Union, Albert Square, Manchester, M2 6LW).
 
 The meeting starts at the usual time of 1900 (doors open a little earlier, we aim to start by 1905).
@@ -28,4 +26,4 @@ This meeting is kindly supported by [Dunnhumby][dunnhumby] and [Barclays Eagle L
 [ML]: https://groups.google.com/forum/#!forum/lambda-lounge-manchester
 [lambdamcr]: https://twitter.com/lambdamcr
 [eventbrite]: https://www.eventbrite.com/e/lambda-lounge-march-2019-faunadb-functional-nosql-f-and-fabulous-tickets-58539889385
-[dunnhumby]: (https://www.dunnhumby.com/)
+[dunnhumby]: https://www.dunnhumby.com/
