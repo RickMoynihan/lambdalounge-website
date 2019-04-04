@@ -31,6 +31,6 @@ This meeting is kindly supported by [Dunnhumby][dunnhumby] and [Barclays Eagle L
 [EagleLabs]: https://labs.uk.barclays/
 [ML]: https://groups.google.com/forum/#!forum/lambda-lounge-manchester
 [lambdamcr]: https://twitter.com/lambdamcr
-[eventbrite]: https://www.eventbrite.com/e/lambdalounge-march-2019-the-bank-kata-in-haskell-tickets-59851831439
+[eventbrite]: https://www.eventbrite.com/e/lambdalounge-april-2019-the-bank-kata-in-haskell-tickets-59851831439
 [dunnhumby]: https://www.dunnhumby.com/
 [bank kata]: https://github.com/Gryff/bank-kata/blob/master/README.md
