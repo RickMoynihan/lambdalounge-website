@@ -20,7 +20,7 @@ Nick Froud will give us an introduction to Tidal Cycles, a live coding music env
 
 A very quick tour of Coconut, an FP language that is designed as a superset of Python (much as Typescript is to Javascript). We’ll have a look at the syntax and maybe see how we can use it to make some programs nicer.
 
-#### Hakim Cassimally ([@osfameron][hakim]) - Drawing squiggly lines in Python, functionally
+#### Hakim Cassimally ([@TechySquirrel][hakim]) - Drawing squiggly lines in Python, functionally
 
 If you’ve ever seen https://explainshell.com/ and thought “That’s great, but shouldn’t it be in the shell?” (and can it explain itself?) then this is the talk for you. Hakim will show a shell explainer written in FP Python.
 
@@ -36,7 +36,7 @@ This meeting is kindly supported by [Dunnhumby][dunnhumby] and [Barclays Eagle L
 
 [eventbrite]: https://www.eventbrite.com/e/lambdalounge-june-2019-lightning-talks-tickets-63084495424
 [james]: https://twitter.com/James_Fielder
-[hakim]: ttps://twitter.com/osfameron
+[hakim]: https://twitter.com/TechySquirrel
 [alex]: https://twitter.com/hipsters_unite
 [dunnhumby]: https://www.dunnhumby.com/
 [EagleLabs]: https://labs.uk.barclays/
