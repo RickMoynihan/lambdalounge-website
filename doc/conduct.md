@@ -37,32 +37,11 @@ discrimination you might not even be aware of.
 
 If you consider anyone in attendance at a Lambda Lounge meeting to be
 in violation of the spirit of this document then do not hesitate to
-contact either [myself](http://twitter.com/RickMoynihan) or one of the
-organisers.
+contact one of the organisers.
 
-If you feel we are not adequately addressing your concern you can as a
-last resort contact MadLab.  Madlab have an
-[Equal Opportunities Policy](https://madlab.org.uk/wp-content/uploads/2015/05/EqualOpportunitiesPolicy.pdf),
-and like us, follow madlab director, Rachael Turner's universal
-principle of:
-
-<pre><tt><font face="monospace">
-     011001       000110
-   1111011011   1001110100
- 0010000001100 0100110010100
-10000001100001001000000110010
-00110100101100011011010110010
-00000110010001101111011011100
- 111010000100000011000100110
-   01010010000001100001001
-     0000001100100011010
-       010110001101101
-         01100100000
-           01100100
-            01101
-             111
-              0
-</font></tt></pre>
+(We aim to treat any reported issue with seriousness and respect.  We
+don't currently have an escalation point outside the group, but are
+looking into this.)
 
 In addition participants should remember that speakers at Lambda
 Lounge are not always experts on their subject matter.  Often speakers
