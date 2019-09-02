@@ -33,7 +33,7 @@ This meeting is kindly supported by [EqualExperts][ee] and [Barclays Eagle Labs]
 
 ---
 
-[eventbrite]: https://www.eventbrite.com/...
+[eventbrite]: https://www.eventbrite.com/e/introduction-to-programming-music-with-pure-data-dr-jenn-kirby-tickets-71298256003
 [jenn]: http://jennkirby.com
 [dunnhumby]: https://www.dunnhumby.com/
 [EagleLabs]: https://labs.uk.barclays/
