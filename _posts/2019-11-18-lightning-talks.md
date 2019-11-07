@@ -20,9 +20,9 @@ Details here
 
 A brief introduction to how you can use Kotlin functionally! Spoiler alert: it's nicer than Java. 
 
-#### Alex Lynham ([@hipsters_unite][alex]) - Monadic deferreds in Clojure
+#### Alex Lynham ([@hipsters_unite][alex]) - Monadic deferreds in Clojure - just ddo it!
 
-Details here
+A lightning talk on how (and why) we use monads as the building block for our work with deferreds at Yapster, and why this may be a useful tool in your clojure(script) programs too.
 
 ---
 
