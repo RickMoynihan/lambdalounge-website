@@ -36,7 +36,7 @@ This meeting is kindly supported by [Barclays Eagle Labs][EagleLabs]
 
 ---
 
-[eventbrite]: https://www.eventbrite.com/e/lambdalounge-june-2019-lightning-talks-tickets-63084495424
+[eventbrite]: https://www.eventbrite.com/e/lambda-lounge-november-2019-lightning-talks-tickets-80634916205
 [conor]: https://twitter.com/SectoidCmdr
 [alex]: https://twitter.com/hipsters_unite
 [EagleLabs]: https://labs.uk.barclays/
