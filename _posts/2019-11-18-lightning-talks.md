@@ -24,7 +24,7 @@ A brief introduction to how you can use Kotlin functionally! Spoiler alert: it's
 
 A lightning talk on how (and why) we use monads as the building block for our work with deferreds at Yapster, and why this may be a useful tool in your Clojure(script) programs too.
 
-#### Paul Wild ([@pw_x])- Using F# to parse poker hand history
+#### Paul Wild ([@pw_x][paul])- Using F# to parse poker hand history
 
 Any edge in online poker could mean the difference between winning that big pot or losing everything. Luckily every hand played is recorded in log files and analyzing this data could be the first step towards the final table of the world series.
 
