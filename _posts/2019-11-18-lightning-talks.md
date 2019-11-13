@@ -40,3 +40,4 @@ This meeting is kindly supported by [Barclays Eagle Labs][EagleLabs]
 [conor]: https://twitter.com/SectoidCmdr
 [alex]: https://twitter.com/hipsters_unite
 [EagleLabs]: https://labs.uk.barclays/
+[paul]: https://twitter.com/pw_x
