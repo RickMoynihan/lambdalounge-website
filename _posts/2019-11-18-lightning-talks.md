@@ -32,7 +32,7 @@ With that goal in mind this talk will introduce F#s parser combinator library fp
 
 ---
 
-This meeting is kindly supported by [Barclays Eagle Labs][EagleLabs]
+This meeting is kindly supported by [Barclays Eagle Labs][EagleLabs] and [CapsuleCRM][capsule].
 
 ---
 
@@ -41,3 +41,4 @@ This meeting is kindly supported by [Barclays Eagle Labs][EagleLabs]
 [alex]: https://twitter.com/hipsters_unite
 [EagleLabs]: https://labs.uk.barclays/
 [paul]: https://twitter.com/pw_x
+[capsule]: https://capsulecrm.com/
