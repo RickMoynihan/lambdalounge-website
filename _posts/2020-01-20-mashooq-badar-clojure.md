@@ -2,9 +2,9 @@
 layout: post
 ---
 
-Our next meeting is on Monday 20th January at Dept's offices in (9th floor, Bridgewater House, Whitworth St, Manchester, M1 6LT).
+Our next meeting is on Monday 20th January at Dept's offices (9th floor, Bridgewater House, Whitworth St, Manchester, M1 6LT).
 
-The meeting starts at the usual time of 1900 (doors open a little earlier, we aim to start by 1905).
+The meeting starts at the usual time of 1900 - we aim to start by 1905.
 
 Please [register][eventbrite] to let us know you'll be attending.
 
@@ -21,6 +21,9 @@ He prides himself at being a hands-on software developer and believes that softw
 to learn and the best way to maintain them is to apply them. 
 
 ---
+
+Please note the change of venue this month! Food and refreshments will be provided; please let us know of any special
+requirements.
 
 This meeting is kindly supported by [Dept][dept] and [Codurance][codurance].
 
