@@ -26,6 +26,14 @@ You'll also see how to debug your apps, and how to integrate build tools like Sh
 
 **N.B.** Please bring your laptop with you!
 
+Before attending, you'll need to make sure that you have:
+
+- Git installed
+- Node installed
+- The JVM installed
+
+We'll be cloning a repo from GitHub to get started, and then working from there.
+
 ---
 
 Food and refreshments will be provided; please let us know of any special requirements.
