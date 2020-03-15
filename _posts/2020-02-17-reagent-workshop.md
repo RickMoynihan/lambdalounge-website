@@ -2,7 +2,7 @@
 layout: post
 ---
 
-Our next meeting is on Monday 17th March at Barclays Eagle Labs in Albert Square (Union, Albert Square, Manchester, M2 6LW).
+Our next meeting is on Monday 17th February at Barclays Eagle Labs in Albert Square (Union, Albert Square, Manchester, M2 6LW).
 
 The meeting starts at the usual time of 1900 - we aim to start by 1905.
 
