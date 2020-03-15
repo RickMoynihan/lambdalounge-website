@@ -2,6 +2,8 @@
 layout: post
 ---
 
+* NB: Our March 2020 meeting is cancelled. Hope to see you all in April!
+
 Our next meeting is on Monday 17th February at Barclays Eagle Labs in Albert Square (Union, Albert Square, Manchester, M2 6LW).
 
 The meeting starts at the usual time of 1900 - we aim to start by 1905.
