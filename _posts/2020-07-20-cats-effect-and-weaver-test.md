@@ -6,6 +6,8 @@ Get tickets on [Skiddle][Skiddle] or see the box below. Watch the [Livestream][L
 
 This month we have Anton and Olivier from Disney Streaming Services will talk about effect types in Scala, what they are, why they matter, as well as the new test framework, Weaver Test, that they have built and open sourced for effects in Scala.
 
+This meetup is in collaboration with [Scala Manchester][scala-manchester].
+
 Obviously in the strange times that we live in we can't go to the pub after the talks, however please do join us on our new [discord server][Discord].
 We are still getting setup with this, so let us know if there is anything you would like to see on there.
 
@@ -20,3 +22,4 @@ We are still getting setup with this, so let us know if there is anything you wo
 [Livestream]: https://www.youtube.com/watch?v=OuTdqszl9jw
 [Discord]: https://discord.gg/mQ9gGQN
 [Skiddle]: http://skiddle.com/e/13803816
+[scala-manchester]: https://www.meetup.com/scala-developers/
