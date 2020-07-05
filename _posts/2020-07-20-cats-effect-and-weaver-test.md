@@ -2,9 +2,12 @@
 layout: post
 ---
 
+## Introduction to Cats Effect and Weaver Test
+
 Get tickets on [Skiddle][Skiddle] or see the box below. Watch the [Livestream][Livestream].
 
-This month we have Anton and Olivier from Disney Streaming Services will talk about effect types in Scala, what they are, why they matter, as well as the new test framework, Weaver Test, that they have built and open sourced for effects in Scala.
+This month we have Anton and Olivier from Disney Streaming Services will talk about effect types in Scala, what they are, why they matter, and introduce the [Cats Effect][cats-effect] project.
+Then they will introduce a new test framework, [Weaver Test][weaver-test], that they have built using Cats Effect in Scala.
 
 This meetup is in collaboration with [Scala Manchester][scala-manchester].
 
@@ -23,3 +26,5 @@ We are still getting setup with this, so let us know if there is anything you wo
 [Discord]: https://discord.gg/mQ9gGQN
 [Skiddle]: http://skiddle.com/e/13803816
 [scala-manchester]: https://www.meetup.com/scala-developers/
+[cats-effect]: https://typelevel.org/cats-effect/
+[weaver-test]: https://disneystreaming.github.io/weaver-test/
