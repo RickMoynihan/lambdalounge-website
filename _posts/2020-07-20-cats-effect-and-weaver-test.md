@@ -6,7 +6,7 @@ layout: post
 
 Get tickets on [Skiddle][Skiddle] or see the box below. Watch the [Livestream][Livestream].
 
-This month we have Anton and Olivier from Disney Streaming Services will talk about effect types in Scala, what they are, why they matter, and introduce the [Cats Effect][cats-effect] project.
+This month we have Anton and Olivier from Disney Streaming Services talking about effect types in Scala, what they are, why they matter, and introducing the [Cats Effect][cats-effect] project.
 Then they will introduce a new test framework, [Weaver Test][weaver-test], that they have built using Cats Effect in Scala.
 
 This meetup is in collaboration with [Scala Manchester][scala-manchester].
