@@ -64,7 +64,33 @@ github pages.
 Stardotstar granted full permission to reuse the site styles and
 markup, which meant it was an easy task to port the site here.
 
-At some point if maintaining the HTML gets too painful I'll probably
-migrate this to Jekyll or a static site generator.
-
 For copies of the Lambda Lounge Logo's please see [this repository](https://github.com/RickMoynihan/lambda-lounge-logos)
+
+# Building
+
+This site now uses Jekyll: https://jekyllrb.com/
+
+## MacOS
+
+The system Ruby won't work. You may want to use rvm/rbenv if you're familiar
+with them, but the following using Brew's ruby seems to work.
+`brew link ruby` doesn't work, so the install gives the following command
+to shadow the link within your Bash profile.
+
+```
+brew install ruby
+echo 'export PATH="/usr/local/opt/ruby/bin:$PATH"' >> ~/.bash_profile
+
+sudo gem install bundler
+```
+
+## General
+
+Run the commands within Bundler, so:
+
+```
+gem install bundler # sudo if require
+bundle install
+
+bundle exec rake serve
+```
