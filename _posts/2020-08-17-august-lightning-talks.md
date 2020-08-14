@@ -20,6 +20,7 @@ Functional approaches in Typescript are nothing new, but what can we apply from 
 Insert your favourite chocolate + peanut butter ad reference here! I'll discuss some ways you can make your Java code more functional using Vavr, a library that provides persistent data types like Tuple and Seq and functional control structures like Try and Either.
 
 #### **Hakim Cassimally - Purescript**
+Learn about parsing Git diffs for fun and profit using Purescript!
 
 Obviously in the strange times that we live in we can't go to the pub after the talks, however please do join us on our new [discord server][Discord].
 We are still getting setup with this, so let us know if there is anything you would like to see on there.
