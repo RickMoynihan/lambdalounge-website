@@ -23,14 +23,9 @@ A few random facts about Carp, gleaned from HARD and THOROUGH research (a quick 
 * ... and though an alpha project, it has a surprisingly rich set of libraries already
 * ... including graphics and animation (its initial intended purpose)
 
-Obviously in the strange times that we live in we can’t go to the pub after the talks, however please do join us on our new discord server.
-
-Get tickets on [Skiddle][Skiddle] or see the box below. Watch the [Livestream][Livestream].
-
 Join us and help shape the exploration by commenting on our [YouTube stream][Livestream] or [Discord][Discord] page.
 
-Obviously in the strange times that we live in we can't go to the pub after the talks, however please do join us on our new [discord server][Discord].
-We are still getting setup with this, so let us know if there is anything you would like to see on there.
+Get tickets on [Skiddle][Skiddle] or see the box below. Watch the [Livestream][Livestream].
 
 <!-- Start Ticket Box -->
 <div id='ticketbox_ph_169817' style='width:100%'><p>To buy tickets for our events please visit: <a href='https://www.skiddle.com/'>Skiddle</a>.</p></div>
