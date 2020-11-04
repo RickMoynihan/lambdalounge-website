@@ -25,18 +25,30 @@ A few random facts about Carp, gleaned from HARD and THOROUGH research (a quick 
 
 Join us and help shape the exploration by commenting on our [YouTube stream][Livestream] or [Discord][Discord] page.
 
-Get tickets on [Skiddle][Skiddle] or see the box below. Watch the [Livestream][Livestream].
+Get tickets on [EventBrite][EventBrite] or see the box below. Watch the [Livestream][Livestream].
 
-<!-- Start Ticket Box -->
-<div id='ticketbox_ph_169817' style='width:100%'><p>To buy tickets for our events please visit: <a href='https://www.skiddle.com/'>Skiddle</a>.</p></div>
-<script type='text/javascript'>(function() { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = 'https://www.skiddle.com/infofeed/ticketpage.php?pid=169817;type=embedded'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })(); </script>
-<p style='margin-top:0;font-size:8pt;line-height:13px;'><a href='https://www.skiddle.com/' style='color:#666'>Ticket sales powered by Skiddle </a></p>
-<!-- End Ticket Box -->
-
+<!-- begin widget -->
+<div id="eventbrite-widget-container-128050164489"></div>
+<script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
+<script type="text/javascript">
+var exampleCallback = function() {
+console.log('Order complete!');
+};
+window.EBWidgets.createWidget({
+// Required
+widgetType: 'checkout',
+eventId: '128050164489',
+iframeContainerId: 'eventbrite-widget-container-128050164489',
+// Optional
+iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+});
+</script>
+<!-- end widget -->
 
 ---
 
 [Livestream]: https://www.youtube.com/watch?v=DkAVO0DJ3xg
 [Discord]: https://discord.gg/JExyX9V
-[Skiddle]: http://skiddle.com/e/13951663
+[EventBrite]: https://www.eventbrite.co.uk/e/lambdalounge-november-carp-tickets-128050164489
 [Carp]: https://github.com/carp-lang/Carp
